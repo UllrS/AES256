@@ -1,7 +1,7 @@
 import Foundation
 import CryptoKit
 
-class MyAES{
+class CryptAES{
     
     var key = SymmetricKey(size: .bits256)
     
