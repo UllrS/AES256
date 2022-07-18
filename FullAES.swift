@@ -4,7 +4,7 @@ import CryptoKit
 class CryptoManager{
     
     var key: SymmetricKey = SymmetricKey(size: .bits256)
-    let sold: String = "965f89884cbc137da047e2d30f9bbcd2633f25c61ff90fa3bcc1a46714089bc0åœ∑m-dv√–œ“´¬œ£-•ˆ®œ“mqverqwp184åß∂ssqΩç"
+    let sold: String = "Very long string"
     
     init(){
         setRandomKey()
